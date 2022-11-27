@@ -2,7 +2,7 @@
     "object": [
         {
             "id": 1,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/0/07/Radar_anime.png/revision/latest?cb=20190302084336.jpg",
+            "image1": "https://i0.wp.com/otakuorbit.com/wp-content/uploads/2019/02/yakusoku-no-neverland-07-large-16.jpg?resize=700%2C394&ssl=1",
             "name": "Radar",
             "type": "Radar",
             "utility": "Locates where the transmitters are.",
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/d/dd/Transmitters_anime.png/revision/latest?cb=20190303141920.jpg",
+            "image1": "https://s.kaskus.id/r540x540/images/2019/01/25/9545910_201901250831560265.jpg",
             "name": "Transmitter",
             "type": "Transmitter",
             "utility": "Gives the location of an orphan",
@@ -20,7 +20,7 @@
         },
         {
             "id": 3,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/2/2b/Minerva_pen_anime.png/revision/latest?cb=20190302100247.jpg",
+            "image1": "https://otakuauthor.com/wp-content/uploads/2019/03/ThePromisedNeverlandEpisode12WilliamMinervaPen-1024x546.jpg",
             "name": "Promised Pen",
             "type": "Pen, Key, Map",
             "utility": "Functions as the only key to Shelter B06-32 and Minerva's door in Goldy Pond and it projects a virtual map of the user's current location.",
@@ -29,7 +29,7 @@
         },
         {
             "id": 4,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/0/06/Vida_in_anime.png/revision/latest?cb=20190110140603.jpg",
+            "image1": "https://animegeeksjp.com/wp-content/uploads/2020/11/vida1-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-2",
             "name": "Vida",
             "type": "Flower",
             "owner": "Demons, Ray",
@@ -38,7 +38,7 @@
         },
         {
             "id": 5,
-            "image1": "https://static.wikia.nocookie.net/yakusokunoneverland/images/0/0f/Little_Bernie_anime.png/revision/latest?cb=20181208085459.jpg",
+            "image1": "https://i.pinimg.com/564x/dc/9b/5b/dc9b5b9d1a421a8b009de27b3067d33d.jpg",
             "name": "Little Bunny",
             "type": "Plush Rabbit",
             "utility":"-",
